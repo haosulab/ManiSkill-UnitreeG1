@@ -38,7 +38,7 @@
       <geometry>
         <mesh filename="meshes/pelvis_contour_link.STL"/>
       </geometry>
-      <material name="">
+      <material name="dark">
         <color rgba="0.2 0.2 0.2 1"/>
       </material>
     </visual>
@@ -60,7 +60,7 @@
       <geometry>
         <mesh filename="meshes/left_hip_pitch_link.STL"/>
       </geometry>
-      <material name="">
+      <material name="dark">
         <color rgba="0.2 0.2 0.2 1"/>
       </material>
     </visual>
@@ -205,7 +205,7 @@
       <geometry>
         <mesh filename="meshes/left_ankle_roll_link.STL"/>
       </geometry>
-      <material name="">
+      <material name="dark">
         <color rgba="0.2 0.2 0.2 1"/>
       </material>
     </visual>
@@ -258,7 +258,7 @@
       <geometry>
         <mesh filename="meshes/right_hip_pitch_link.STL"/>
       </geometry>
-      <material name="">
+      <material name="dark">
         <color rgba="0.2 0.2 0.2 1"/>
       </material>
     </visual>
@@ -403,7 +403,7 @@
       <geometry>
         <mesh filename="meshes/right_ankle_roll_link.STL"/>
       </geometry>
-      <material name="">
+      <material name="dark">
         <color rgba="0.2 0.2 0.2 1"/>
       </material>
     </visual>
@@ -489,7 +489,7 @@
       <geometry>
         <mesh filename="meshes/head_link.STL"/>
       </geometry>
-      <material name="">
+      <material name="dark">
         <color rgba="0.2 0.2 0.2 1"/>
       </material>
     </visual>
@@ -817,7 +817,7 @@
       <geometry>
         <mesh filename="meshes/logo_link.STL"/>
       </geometry>
-      <material name="">
+      <material name="dark">
         <color rgba="0.2 0.2 0.2 1"/>
       </material>
     </visual>
